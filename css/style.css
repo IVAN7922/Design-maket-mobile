@@ -279,7 +279,7 @@ button {
 }
 
 .control-overlay {
-    margin: 0 auto;
+    margin: 0;
     content: '';
     position: absolute;
     top: 0;
