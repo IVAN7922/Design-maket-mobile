@@ -4,7 +4,9 @@
 
 body {
     margin: 0;
-    font-family: 'Nunito Sans';
+    padding-left: 18px;
+    padding-right: 18px;
+    font-family: 'Nunito Sans';  
 }
 
 .container {
@@ -72,10 +74,9 @@ button {
 /* header */
 
 .header-content {
-    padding-top: 23px;
-    padding-bottom: 24px;
+    padding: 23px 18px 24px;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
     background-color: #131313;
 }
