@@ -282,8 +282,8 @@ button {
     content: '';
     position: absolute;
     top: 0;
-    right: 10px;
-    left: 10px;
+    right: 14px;
+    left: 14px;
     bottom: 342px;
     background-color: rgba(0, 0, 0, .7);
 }
