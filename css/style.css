@@ -10,8 +10,6 @@ body {
 .container {
     max-width: 375px;
     margin: 0 auto;
-    padding-left: 18px;
-    padding-right: 18px;
 }
 
 input[type=text] {
